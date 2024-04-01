@@ -9,20 +9,20 @@ Getting Started
 
 **Clone this repository to your local machine:**
 
-git clone "repository-url"
+_git clone "repository-url"_
 
 Open the project in your preferred IDE or text editor.
 
 Ensure you have all dependencies installed by running:
 
-flutter pub get
+_flutter pub get_
 
 Start your Android emulator or connect your physical Android device to your machine.
 
 Run the project:
 
-flutter run
-
+_flutter run
+_
 The app should launch on your Android emulator or physical device.
 
 **Usage**
