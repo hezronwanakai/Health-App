@@ -4,11 +4,12 @@ This Flutter project is a simple medication ordering app that allows users to or
 
 **Prerequisites**
 
-Ensure you have Flutter installed on your machine. For installation instructions, refer to the Flutter installation guide.
+Ensure you have Flutter installed on your machine. For installation instructions, refer to the _Flutter installation_ guide.
 Set up an Android emulator using Android Studio or have a physical Android device connected to your machine.
-Getting Started
 
-**Clone this repository to your local machine:**
+**Getting Started**
+
+Clone this repository to your local machine:
 
 _git clone "repository-url"_
 
