@@ -9,7 +9,7 @@ Getting Started
 
 **Clone this repository to your local machine:**
 
-git clone <repository-url>
+git clone "repository-url"
 
 Open the project in your preferred IDE or text editor.
 
@@ -26,6 +26,7 @@ flutter run
 The app should launch on your Android emulator or physical device.
 
 **Usage**
+
 Use the "Order Medication" button to navigate to the medication ordering page.
 Select a medication from the dropdown menu, specify the quantity, and press "Order Now" to place the order.
 Use the "View Statement" button to navigate to the statement viewing page and see the ordered medications and total amount.
