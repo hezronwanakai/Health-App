@@ -21,8 +21,7 @@ Start your Android emulator or connect your physical Android device to your mach
 
 Run the project:
 
-_flutter run
-_
+_flutter run_
 
 The app should launch on your Android emulator or physical device.
 
