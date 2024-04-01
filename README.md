@@ -2,7 +2,8 @@
 
 This Flutter project is a simple medication ordering app that allows users to order medication and view their statement.
 
-Prerequisites
+**Prerequisites**
+
 Ensure you have Flutter installed on your machine. For installation instructions, refer to the Flutter installation guide.
 Set up an Android emulator using Android Studio or have a physical Android device connected to your machine.
 Getting Started
