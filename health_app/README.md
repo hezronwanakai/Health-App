@@ -23,6 +23,7 @@ Run the project:
 
 _flutter run
 _
+
 The app should launch on your Android emulator or physical device.
 
 **Usage**
